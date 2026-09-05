@@ -22,6 +22,7 @@ Este repositorio contiene el código y el análisis del proyecto final. El objet
 ## ¿Cómo reproducir el proyecto?
 1. Clonar este repositorio o descargar los archivos.
 2. Abre el archivo `ProyectoFinal_DSII_Llanes.ipynb` directamente en **Google Colab**.
+3. Descomprimir el archivo ZIP.
 
 
 Muchas gracias por su atención y por las clases, estaré a la espera del feedback!
