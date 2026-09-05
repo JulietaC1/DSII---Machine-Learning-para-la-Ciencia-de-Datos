@@ -20,9 +20,10 @@ Este repositorio contiene el código y el análisis del proyecto final. El objet
 - Implementé un modelo de **XGBoost** priorizando el **Recall** (alcanzando un **0.78**) para asegurarnos de detectar a la mayor cantidad de clientes en riesgo de irse.
 
 ## ¿Cómo reproducir el proyecto?
-1. Clonar este repositorio o descargar los archivos.
-2. Abre el archivo `ProyectoFinal_DSII_Llanes.ipynb` directamente en **Google Colab**.
-3. Descomprimir el archivo ZIP.
+Este proyecto cuenta con soporte para ejecutarse tanto en Google Colab como de forma local.
 
-
+1. **Clonar el repositorio:**
+  ```
+  git clone https://github.com/JulietaC1/DSII---Machine-Learning-para-la-Ciencia-de-Datos.git
+```
 Muchas gracias por su atención y por las clases, estaré a la espera del feedback!
