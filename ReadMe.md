@@ -26,4 +26,8 @@ Este proyecto cuenta con soporte para ejecutarse tanto en Google Colab como de f
   ```
   git clone https://github.com/JulietaC1/DSII---Machine-Learning-para-la-Ciencia-de-Datos.git
 ```
+2. Instalar Dependencias:
+```
+   pip install -r requirements.txt
+```
 Muchas gracias por su atención y por las clases, estaré a la espera del feedback!
